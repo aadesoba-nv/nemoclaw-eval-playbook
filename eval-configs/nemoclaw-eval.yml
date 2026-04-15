@@ -30,7 +30,7 @@ llms:
   # Uses NVIDIA_API_KEY from environment.
   judge_llm:
     _type: nim
-    model_name: meta/llama-3.3-70b-instruct
+    model_name: nvidia/llama-3.1-nemotron-ultra-253b-v1
     max_tokens: 8
     chat_template_kwargs:
       enable_thinking: false
@@ -38,7 +38,7 @@ llms:
   # Trajectory judge needs more tokens for reasoning about agent paths.
   trajectory_judge:
     _type: nim
-    model_name: meta/llama-3.3-70b-instruct
+    model_name: nvidia/llama-3.1-nemotron-ultra-253b-v1
     temperature: 0.0
     max_tokens: 1024
     chat_template_kwargs:

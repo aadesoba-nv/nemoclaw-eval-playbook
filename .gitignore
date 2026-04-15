@@ -16,4 +16,11 @@ Thumbs.db
 # Secrets
 .env
 *.key
+
+# Internal docs (keep locally, not for participants)
 nemoclaw-nat-telemetry-spec.md
+nemoclaw-nat-telemetry-context.md
+iterations/
+
+# Eval results (add back after clean run with real scores)
+eval-results/
