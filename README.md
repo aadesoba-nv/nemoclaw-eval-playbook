@@ -14,7 +14,7 @@ You can deploy an agent in 5 minutes with NemoClaw. But how do you know if it's 
 
 - **See what your agent is actually doing** — Phoenix traces show every request/response with latency breakdowns and token usage. When something's slow or wrong, you can see exactly where. This is the difference between "my agent is slow" and "the agent spends 4 seconds on tool calls before responding."
 
-For hackathon participants: showing eval scores and traces in your demo is a stronger story than a chat window. It's the difference between a prototype and something you'd put in front of a customer.
+For developers and enterprises: eval scores and traces turn a prototype into a production-ready story. It's the difference between "we deployed an agent" and "we deployed an agent that scores 0.85 on accuracy with full observability."
 
 ## What This Does
 
