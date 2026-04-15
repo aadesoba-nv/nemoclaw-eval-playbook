@@ -588,10 +588,15 @@ See [troubleshooting.md](troubleshooting.md) for the full guide. Quick fixes for
 ## Project Structure
 
 ```
-claw-use-cases/
+nemoclaw-eval-playbook/
 ├── README.md                           ← You are here
-├── CLAUDE.md                           ← Karpathy coding guidelines
+├── CLAUDE.md                           ← Coding guidelines
 ├── docker-compose.yml                  ← Phoenix tracing stack
+├── troubleshooting.md                  ← Common issues and fixes
+├── nemoclaw-nat-skill.md               ← Condensed skill reference guide
+├── docs/
+│   ├── index.md                        ← GitHub Pages landing page
+│   └── assets/                         ← Visual assets (charts, screenshots)
 ├── eval-configs/
 │   ├── nemoclaw-eval.yml               ← Full eval config
 │   ├── nemoclaw-eval-phoenix.yml       ← Eval + Phoenix tracing
@@ -608,21 +613,15 @@ claw-use-cases/
 │   ├── run-eval.sh                     ← Run evaluation
 │   ├── run-observe.sh                  ← Single prompt + trace
 │   └── extract-sandbox-auth.sh         ← Get sandbox credentials
-├── plugins/
-│   └── nemoclaw-nat-eval/              ← Shareable skill (marketplace format)
-│       ├── SKILL.md                    ← Full skill guide
-│       ├── README.md                   ← Marketplace listing
-│       └── references/
-│           ├── eval-config.yml         ← NAT eval config
-│           ├── observe-config.yml      ← NAT observe config
-│           ├── sample-dataset.json     ← Starter eval dataset
-│           └── dataset-format.md       ← Dataset schema guide
-├── iterations/
-│   ├── iteration-01-what-worked.md     ← Learnings from build
-│   └── iteration-01-what-didnt-work.md ← Issues found during build
-├── nemoclaw-nat-skill.md               ← Team-shareable skill doc
-├── nemoclaw-nat-telemetry-spec.md      ← Full spec document
-└── nemoclaw-nat-telemetry-context.md   ← Working context for builders
+└── plugins/
+    └── nemoclaw-nat-eval/              ← Shareable skill (marketplace format)
+        ├── SKILL.md                    ← Full skill guide
+        ├── README.md                   ← Marketplace listing
+        └── references/
+            ├── eval-config.yml         ← NAT eval config
+            ├── observe-config.yml      ← NAT observe config
+            ├── sample-dataset.json     ← Starter eval dataset
+            └── dataset-format.md       ← Dataset schema guide
 ```
 
 ## What You've Learned
