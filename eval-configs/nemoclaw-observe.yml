@@ -1,0 +1,46 @@
+# NemoClaw + NAT Observability Config (no evaluation, tracing only)
+#
+# Sends a single prompt to the NemoClaw Hermes sandbox and captures
+# telemetry traces via Phoenix. Use this for live demo / interactive
+# observation without running a full eval suite.
+#
+# Prerequisites:
+#   1. NemoClaw sandbox running with Hermes agent (port 8642)
+#   2. Phoenix running locally (port 6006)
+#   3. NEMOCLAW_API_KEY set to the Hermes sandbox bearer token
+#
+# Usage:
+#   nat run --config_file eval-configs/nemoclaw-observe.yml \
+#           --input "What are the security benefits of sandboxed agents?"
+
+llms:
+  nemoclaw_agent:
+    _type: nim
+    model_name: hermes
+    base_url: ${NEMOCLAW_SANDBOX_URL:-http://localhost:8642/v1}
+    api_key: ${NEMOCLAW_API_KEY:-placeholder}
+    temperature: 0.0
+    max_tokens: 2048
+    chat_template_kwargs:
+      enable_thinking: false
+
+# chat_completion is a simple passthrough — Hermes has its own agent loop internally.
+workflow:
+  _type: chat_completion
+  llm_name: nemoclaw_agent
+
+general:
+  telemetry:
+    logging:
+      console:
+        _type: console
+        level: INFO
+      file:
+        _type: file
+        path: ./observe-results/observe.log
+        level: DEBUG
+    tracing:
+      phoenix:
+        _type: phoenix
+        endpoint: ${PHOENIX_ENDPOINT:-http://localhost:6006/v1/traces}
+        project: nemoclaw-observe

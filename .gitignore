@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+nat-venv/
+
+# Logs (keep eval results but not runtime logs)
+observe-results/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key

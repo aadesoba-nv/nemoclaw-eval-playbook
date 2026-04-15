@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gen-001",
+    "category": "general_knowledge",
+    "question": "What are three security benefits of running AI agents inside sandboxed containers?",
+    "answer": "Running agents in sandboxed containers provides process isolation to prevent unauthorized system access, network policy enforcement to control egress and block unauthorized connections, and filesystem restrictions that confine read-write access to designated directories."
+  },
+  {
+    "id": "gen-002",
+    "category": "general_knowledge",
+    "question": "Explain the difference between inference routing through a gateway proxy versus direct API calls from an agent.",
+    "answer": "Gateway proxy routing intercepts inference requests from the agent, injects credentials on the host side, and forwards to the upstream provider. The agent never holds API keys directly. Direct API calls require the agent to store and manage credentials itself, increasing the attack surface if the agent is compromised."
+  },
+  {
+    "id": "gen-003",
+    "category": "general_knowledge",
+    "question": "What is the role of network policies in an agent sandbox environment?",
+    "answer": "Network policies define which external hosts and ports the agent is allowed to reach. They block unauthorized outbound connections by default, surface blocked requests for operator approval, and enforce egress control so the agent cannot exfiltrate data or contact arbitrary services."
+  },
+  {
+    "id": "gen-004",
+    "category": "general_knowledge",
+    "question": "Describe how credential isolation works when an AI agent runs behind an inference proxy.",
+    "answer": "The agent sends inference requests to a local proxy endpoint without any API keys. The proxy on the host side stores the actual credentials and injects them into the outbound request before forwarding to the inference provider. The agent process never sees or handles the real credentials."
+  },
+  {
+    "id": "gen-005",
+    "category": "general_knowledge",
+    "question": "What are the tradeoffs between running a local LLM with Ollama versus using a cloud inference provider like NVIDIA endpoints?",
+    "answer": "Local Ollama provides unlimited throughput without rate limits, full data privacy since nothing leaves the machine, and no API costs, but requires sufficient GPU memory and provides lower quality on smaller models. Cloud providers like NVIDIA endpoints offer access to larger and more capable models, no local GPU requirements, but introduce API rate limits, costs, latency, and data leaves the local environment."
+  }
+]

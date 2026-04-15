@@ -1,0 +1,32 @@
+[
+  {
+    "id": "multi-001",
+    "category": "multi_step_reasoning",
+    "question": "I want to set up a development environment for a Python web API. Walk me through the steps: which framework to choose, project structure, and how to add basic authentication.",
+    "answer": "The agent should provide a structured multi-step plan covering: framework selection (e.g., FastAPI or Flask with reasoning), recommended project structure with directory layout, and step-by-step authentication setup including dependency installation, middleware configuration, and token-based auth implementation."
+  },
+  {
+    "id": "multi-002",
+    "category": "multi_step_reasoning",
+    "question": "I have a CSV file with sales data containing columns: date, product, quantity, price. Help me design a data pipeline that cleans the data, computes daily revenue, and identifies the top 3 products by total revenue.",
+    "answer": "The agent should break this into steps: data loading and validation, cleaning (handling nulls, type conversion, deduplication), computing daily revenue (quantity * price grouped by date), and aggregating to find top 3 products by total revenue. Should include sample code or pseudocode for each step."
+  },
+  {
+    "id": "multi-003",
+    "category": "multi_step_reasoning",
+    "question": "Explain how you would debug a situation where an AI agent's responses are slower than expected. What metrics would you check, in what order, and what would each tell you?",
+    "answer": "The agent should outline a systematic debugging approach: first check network latency to the inference endpoint, then examine time-to-first-token versus total generation time, check token count in prompts (context window bloat), look at tool call overhead if tools are in use, and finally consider model-side issues like queuing or rate limiting. Each metric should have a clear diagnostic purpose."
+  },
+  {
+    "id": "multi-004",
+    "category": "multi_step_reasoning",
+    "question": "Compare and contrast three approaches to adding memory to an AI agent: conversation history, vector store RAG, and structured knowledge graphs. For each, explain when you would use it and its limitations.",
+    "answer": "The agent should provide a structured comparison: conversation history is simplest but limited by context window and loses relevance over time; vector store RAG handles large knowledge bases with semantic search but struggles with structured relationships; knowledge graphs excel at relational queries but require schema design and are harder to populate. Each approach should have clear use-case recommendations."
+  },
+  {
+    "id": "multi-005",
+    "category": "multi_step_reasoning",
+    "question": "Design a monitoring dashboard for an AI agent deployment. What are the 5 most critical metrics to display, why each matters, and what thresholds should trigger alerts?",
+    "answer": "The agent should identify metrics like: response latency (P50/P95/P99 with thresholds), error rate (5xx responses), token usage per request (cost control), tool call success rate (reliability), and inference provider health (availability). Each metric should have a rationale and concrete alert thresholds."
+  }
+]

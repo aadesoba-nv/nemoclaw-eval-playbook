@@ -1,0 +1,27 @@
+# Phoenix + OTel Collector for NemoClaw telemetry
+#
+# Provides a local observability stack for viewing NAT traces
+# from NemoClaw agent evaluation and observation runs.
+#
+# Usage:
+#   docker compose up -d
+#   # Phoenix UI: http://localhost:6006
+#   # OTel gRPC:  localhost:4317
+#   # OTel HTTP:  localhost:4318
+#
+# Teardown:
+#   docker compose down -v
+
+services:
+  phoenix:
+    image: arizephoenix/phoenix:13.22
+    ports:
+      - "6006:6006"   # Phoenix UI
+      - "4317:4317"   # OTel gRPC receiver (used by NAT tracing)
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:6006"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 15s

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tool-001",
+    "category": "tool_use",
+    "question": "Check the current status of this NemoClaw sandbox. Report the agent type, gateway health, model, and provider.",
+    "answer": "The agent should invoke the nemoclaw_status tool and return structured information about the sandbox including agent type (Hermes), gateway status (running/stopped), configured model name, provider, and API endpoint."
+  },
+  {
+    "id": "tool-002",
+    "category": "tool_use",
+    "question": "Get the sandbox configuration as structured JSON data.",
+    "answer": "The agent should invoke the nemoclaw_info tool and return a JSON object containing agent name, model, provider, base_url, gateway status, and port number."
+  },
+  {
+    "id": "tool-003",
+    "category": "tool_use",
+    "question": "Reload all available skills from disk and report which skills were discovered.",
+    "answer": "The agent should invoke the nemoclaw_reload_skills tool, which clears the skill cache, re-scans skill directories, and returns a list of discovered skills with their descriptions."
+  },
+  {
+    "id": "tool-004",
+    "category": "tool_use",
+    "question": "I need to know both the sandbox status and the raw JSON config. Can you get both?",
+    "answer": "The agent should invoke both nemoclaw_status and nemoclaw_info tools and present the combined information showing sandbox health alongside the structured configuration data."
+  },
+  {
+    "id": "tool-005",
+    "category": "tool_use",
+    "question": "Write a short Python function that calculates the Fibonacci sequence up to n terms, then explain the time complexity.",
+    "answer": "The agent should write a correct Fibonacci function (iterative or recursive) and correctly explain that the iterative approach is O(n) while naive recursive is O(2^n). The agent demonstrates coding capability within the sandbox."
+  }
+]

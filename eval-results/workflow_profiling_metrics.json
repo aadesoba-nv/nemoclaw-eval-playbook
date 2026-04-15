@@ -1,0 +1,1046 @@
+{
+  "nested_stack_analysis": {
+    "concurrency": {
+      "timeline_segments": [
+        [
+          1776248288.894967,
+          1776248288.8961272,
+          1
+        ],
+        [
+          1776248288.8961272,
+          1776248288.904285,
+          1
+        ],
+        [
+          1776248288.904285,
+          1776248288.9050627,
+          0
+        ],
+        [
+          1776248288.9050627,
+          1776248288.905356,
+          1
+        ],
+        [
+          1776248288.905356,
+          1776248288.9065232,
+          1
+        ],
+        [
+          1776248288.9065232,
+          1776248288.9069378,
+          0
+        ],
+        [
+          1776248288.9069378,
+          1776248288.907091,
+          1
+        ],
+        [
+          1776248288.907091,
+          1776248288.9078534,
+          1
+        ],
+        [
+          1776248288.9078534,
+          1776248288.908796,
+          0
+        ],
+        [
+          1776248288.908796,
+          1776248288.9089525,
+          1
+        ],
+        [
+          1776248288.9089525,
+          1776248288.9101126,
+          1
+        ],
+        [
+          1776248288.9101126,
+          1776248288.9104764,
+          0
+        ],
+        [
+          1776248288.9104764,
+          1776248288.9106216,
+          1
+        ],
+        [
+          1776248288.9106216,
+          1776248288.9119055,
+          1
+        ],
+        [
+          1776248288.9119055,
+          1776248288.9130464,
+          0
+        ],
+        [
+          1776248288.9130464,
+          1776248288.9133744,
+          1
+        ],
+        [
+          1776248288.9133744,
+          1776248288.9149241,
+          1
+        ],
+        [
+          1776248288.9149241,
+          1776248288.9155765,
+          0
+        ],
+        [
+          1776248288.9155765,
+          1776248288.91579,
+          1
+        ],
+        [
+          1776248288.91579,
+          1776248288.9168968,
+          1
+        ],
+        [
+          1776248288.9168968,
+          1776248288.9172955,
+          0
+        ],
+        [
+          1776248288.9172955,
+          1776248288.9174902,
+          1
+        ],
+        [
+          1776248288.9174902,
+          1776248288.9186945,
+          1
+        ],
+        [
+          1776248288.9186945,
+          1776248288.9190986,
+          0
+        ],
+        [
+          1776248288.9190986,
+          1776248288.9192455,
+          1
+        ],
+        [
+          1776248288.9192455,
+          1776248288.9200566,
+          1
+        ],
+        [
+          1776248288.9200566,
+          1776248288.9204967,
+          0
+        ],
+        [
+          1776248288.9204967,
+          1776248288.9206984,
+          1
+        ],
+        [
+          1776248288.9206984,
+          1776248288.921615,
+          1
+        ],
+        [
+          1776248288.921615,
+          1776248288.9219866,
+          0
+        ],
+        [
+          1776248288.9219866,
+          1776248288.9221246,
+          1
+        ],
+        [
+          1776248288.9221246,
+          1776248288.9228249,
+          1
+        ],
+        [
+          1776248288.9228249,
+          1776248288.9231822,
+          0
+        ],
+        [
+          1776248288.9231822,
+          1776248288.9233222,
+          1
+        ],
+        [
+          1776248288.9233222,
+          1776248288.924012,
+          1
+        ],
+        [
+          1776248288.924012,
+          1776248288.9244957,
+          0
+        ],
+        [
+          1776248288.9244957,
+          1776248288.9246223,
+          1
+        ],
+        [
+          1776248288.9246223,
+          1776248288.9253395,
+          1
+        ],
+        [
+          1776248288.9253395,
+          1776248288.9256861,
+          0
+        ],
+        [
+          1776248288.9256861,
+          1776248288.9258099,
+          1
+        ],
+        [
+          1776248288.9258099,
+          1776248288.9264662,
+          1
+        ],
+        [
+          1776248288.9264662,
+          1776248288.9268172,
+          0
+        ],
+        [
+          1776248288.9268172,
+          1776248288.9269407,
+          1
+        ],
+        [
+          1776248288.9269407,
+          1776248288.9276032,
+          1
+        ],
+        [
+          1776248288.9276032,
+          1776248288.9280195,
+          0
+        ],
+        [
+          1776248288.9280195,
+          1776248288.9281921,
+          1
+        ],
+        [
+          1776248288.9281921,
+          1776248288.9291482,
+          1
+        ],
+        [
+          1776248288.9291482,
+          1776248288.9295604,
+          0
+        ],
+        [
+          1776248288.9295604,
+          1776248288.9297254,
+          1
+        ],
+        [
+          1776248288.9297254,
+          1776248288.9307551,
+          1
+        ],
+        [
+          1776248288.9307551,
+          1776248288.9311774,
+          0
+        ],
+        [
+          1776248288.9311774,
+          1776248288.9313388,
+          1
+        ],
+        [
+          1776248288.9313388,
+          1776248288.9324198,
+          1
+        ],
+        [
+          1776248288.9324198,
+          1776248288.9328551,
+          0
+        ],
+        [
+          1776248288.9328551,
+          1776248288.933007,
+          1
+        ],
+        [
+          1776248288.933007,
+          1776248288.933822,
+          1
+        ],
+        [
+          1776248288.933822,
+          1776248288.9342728,
+          0
+        ],
+        [
+          1776248288.9342728,
+          1776248288.9344125,
+          1
+        ],
+        [
+          1776248288.9344125,
+          1776248288.9351375,
+          1
+        ],
+        [
+          1776248288.9351375,
+          1776248288.935489,
+          0
+        ],
+        [
+          1776248288.935489,
+          1776248288.9356208,
+          1
+        ],
+        [
+          1776248288.9356208,
+          1776248288.9363759,
+          1
+        ],
+        [
+          1776248288.9363759,
+          1776248288.9367547,
+          0
+        ],
+        [
+          1776248288.9367547,
+          1776248288.936898,
+          1
+        ],
+        [
+          1776248288.936898,
+          1776248288.9379272,
+          1
+        ],
+        [
+          1776248288.9379272,
+          1776248288.9383602,
+          0
+        ],
+        [
+          1776248288.9383602,
+          1776248288.9385128,
+          1
+        ],
+        [
+          1776248288.9385128,
+          1776248288.9393773,
+          1
+        ],
+        [
+          1776248288.9393773,
+          1776248288.9397376,
+          0
+        ],
+        [
+          1776248288.9397376,
+          1776248288.9398677,
+          1
+        ],
+        [
+          1776248288.9398677,
+          1776248288.9406126,
+          1
+        ],
+        [
+          1776248288.9406126,
+          1776248288.9409769,
+          0
+        ],
+        [
+          1776248288.9409769,
+          1776248288.9411077,
+          1
+        ],
+        [
+          1776248288.9411077,
+          1776248288.9417803,
+          1
+        ]
+      ],
+      "p50": 1.0,
+      "p90": 1.0,
+      "p95": 1.0,
+      "p99": 1.0
+    },
+    "node_metrics": {
+      "86bb18d9-2737-4f44-931a-ba00bbbe42c0": {
+        "uuid": "86bb18d9-2737-4f44-931a-ba00bbbe42c0",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.894967,
+        "end_time": 1776248288.904285,
+        "duration": 0.009317874908447266,
+        "self_time": 0.009317874908447266,
+        "subtree_time": 0.009317874908447266,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.009317874908447266
+      },
+      "019d90a5-f67f-7bf3-ab61-aa1affea8158": {
+        "uuid": "019d90a5-f67f-7bf3-ab61-aa1affea8158",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.8961272,
+        "end_time": 1776248288.8961272,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "649c825d-f439-4a37-8dba-a8c3601ead00": {
+        "uuid": "649c825d-f439-4a37-8dba-a8c3601ead00",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9050627,
+        "end_time": 1776248288.9065232,
+        "duration": 0.0014605522155761719,
+        "self_time": 0.0014605522155761719,
+        "subtree_time": 0.0014605522155761719,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0014605522155761719
+      },
+      "019d90a5-f689-7892-941b-fc3777fcd8ae": {
+        "uuid": "019d90a5-f689-7892-941b-fc3777fcd8ae",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.905356,
+        "end_time": 1776248288.905356,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "83358228-504e-497a-b46b-4af1d46d2e6e": {
+        "uuid": "83358228-504e-497a-b46b-4af1d46d2e6e",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9069378,
+        "end_time": 1776248288.9078534,
+        "duration": 0.00091552734375,
+        "self_time": 0.00091552734375,
+        "subtree_time": 0.00091552734375,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.00091552734375
+      },
+      "019d90a5-f68b-7803-a325-6e124b0060a7": {
+        "uuid": "019d90a5-f68b-7803-a325-6e124b0060a7",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.907091,
+        "end_time": 1776248288.907091,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "9c21bd49-e50f-43e3-bd18-81ed92bf8239": {
+        "uuid": "9c21bd49-e50f-43e3-bd18-81ed92bf8239",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.908796,
+        "end_time": 1776248288.9101126,
+        "duration": 0.0013165473937988281,
+        "self_time": 0.0013165473937988281,
+        "subtree_time": 0.0013165473937988281,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0013165473937988281
+      },
+      "019d90a5-f68c-7092-bc38-262a05dc3446": {
+        "uuid": "019d90a5-f68c-7092-bc38-262a05dc3446",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9089525,
+        "end_time": 1776248288.9089525,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "8d7d2510-b310-466e-961e-bfa3b2d05f11": {
+        "uuid": "8d7d2510-b310-466e-961e-bfa3b2d05f11",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9104764,
+        "end_time": 1776248288.9119055,
+        "duration": 0.0014290809631347656,
+        "self_time": 0.0014290809631347656,
+        "subtree_time": 0.0014290809631347656,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0014290809631347656
+      },
+      "019d90a5-f68e-77d2-a7c4-d0c5e32c4a7a": {
+        "uuid": "019d90a5-f68e-77d2-a7c4-d0c5e32c4a7a",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9106216,
+        "end_time": 1776248288.9106216,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "96816f2f-27a6-4193-a160-94e784c18ae2": {
+        "uuid": "96816f2f-27a6-4193-a160-94e784c18ae2",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9130464,
+        "end_time": 1776248288.9149241,
+        "duration": 0.0018777847290039062,
+        "self_time": 0.0018777847290039062,
+        "subtree_time": 0.0018777847290039062,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0018777847290039062
+      },
+      "019d90a5-f691-7522-acba-8efb1b53d45b": {
+        "uuid": "019d90a5-f691-7522-acba-8efb1b53d45b",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9133744,
+        "end_time": 1776248288.9133744,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "1a64496b-26c0-458b-9296-90adcbea46a4": {
+        "uuid": "1a64496b-26c0-458b-9296-90adcbea46a4",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9155765,
+        "end_time": 1776248288.9168968,
+        "duration": 0.0013203620910644531,
+        "self_time": 0.0013203620910644531,
+        "subtree_time": 0.0013203620910644531,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0013203620910644531
+      },
+      "019d90a5-f693-7ac0-b30d-e5a3d9ba2fca": {
+        "uuid": "019d90a5-f693-7ac0-b30d-e5a3d9ba2fca",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.91579,
+        "end_time": 1776248288.91579,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "ab023229-77e8-4b24-aefd-8afeb5c2cec9": {
+        "uuid": "ab023229-77e8-4b24-aefd-8afeb5c2cec9",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9172955,
+        "end_time": 1776248288.9186945,
+        "duration": 0.0013990402221679688,
+        "self_time": 0.0013990402221679688,
+        "subtree_time": 0.0013990402221679688,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0013990402221679688
+      },
+      "019d90a5-f695-7e42-8357-98ca23630405": {
+        "uuid": "019d90a5-f695-7e42-8357-98ca23630405",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9174902,
+        "end_time": 1776248288.9174902,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "9c9092f1-7664-4588-b5f5-26cf5d8d627d": {
+        "uuid": "9c9092f1-7664-4588-b5f5-26cf5d8d627d",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9190986,
+        "end_time": 1776248288.9200566,
+        "duration": 0.0009579658508300781,
+        "self_time": 0.0009579658508300781,
+        "subtree_time": 0.0009579658508300781,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0009579658508300781
+      },
+      "019d90a5-f697-7192-ad29-32617528bba8": {
+        "uuid": "019d90a5-f697-7192-ad29-32617528bba8",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9192455,
+        "end_time": 1776248288.9192455,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "4ec2f184-3422-48c5-bf50-00c29263ed6e": {
+        "uuid": "4ec2f184-3422-48c5-bf50-00c29263ed6e",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9204967,
+        "end_time": 1776248288.921615,
+        "duration": 0.0011181831359863281,
+        "self_time": 0.0011181831359863281,
+        "subtree_time": 0.0011181831359863281,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0011181831359863281
+      },
+      "019d90a5-f698-73c3-8e8f-64bb10839a58": {
+        "uuid": "019d90a5-f698-73c3-8e8f-64bb10839a58",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9206984,
+        "end_time": 1776248288.9206984,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "163d35ff-f81f-47ac-9df7-5cfa4a41ede1": {
+        "uuid": "163d35ff-f81f-47ac-9df7-5cfa4a41ede1",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9219866,
+        "end_time": 1776248288.9228249,
+        "duration": 0.0008382797241210938,
+        "self_time": 0.0008382797241210938,
+        "subtree_time": 0.0008382797241210938,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0008382797241210938
+      },
+      "019d90a5-f69a-73f0-8743-472451939bf1": {
+        "uuid": "019d90a5-f69a-73f0-8743-472451939bf1",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9221246,
+        "end_time": 1776248288.9221246,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "78a851bc-1c0b-43a7-9955-ef1219dd7701": {
+        "uuid": "78a851bc-1c0b-43a7-9955-ef1219dd7701",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9231822,
+        "end_time": 1776248288.924012,
+        "duration": 0.0008296966552734375,
+        "self_time": 0.0008296966552734375,
+        "subtree_time": 0.0008296966552734375,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0008296966552734375
+      },
+      "019d90a5-f69b-76a3-a444-a1f471182132": {
+        "uuid": "019d90a5-f69b-76a3-a444-a1f471182132",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9233222,
+        "end_time": 1776248288.9233222,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "e6b5f4da-a6c2-44cd-ada8-20a31ace2b34": {
+        "uuid": "e6b5f4da-a6c2-44cd-ada8-20a31ace2b34",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9244957,
+        "end_time": 1776248288.9253395,
+        "duration": 0.0008437633514404297,
+        "self_time": 0.0008437633514404297,
+        "subtree_time": 0.0008437633514404297,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0008437633514404297
+      },
+      "019d90a5-f69c-7551-b844-febcad93f3d5": {
+        "uuid": "019d90a5-f69c-7551-b844-febcad93f3d5",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9246223,
+        "end_time": 1776248288.9246223,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "ec78fffe-f095-4537-a3c3-db4d70335722": {
+        "uuid": "ec78fffe-f095-4537-a3c3-db4d70335722",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9256861,
+        "end_time": 1776248288.9264662,
+        "duration": 0.0007801055908203125,
+        "self_time": 0.0007801055908203125,
+        "subtree_time": 0.0007801055908203125,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0007801055908203125
+      },
+      "019d90a5-f69d-7160-8ccd-eb54d231e6e7": {
+        "uuid": "019d90a5-f69d-7160-8ccd-eb54d231e6e7",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9258099,
+        "end_time": 1776248288.9258099,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "69228cda-c008-4bfd-9bb8-1e7d81276c8f": {
+        "uuid": "69228cda-c008-4bfd-9bb8-1e7d81276c8f",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9268172,
+        "end_time": 1776248288.9276032,
+        "duration": 0.0007860660552978516,
+        "self_time": 0.0007860660552978516,
+        "subtree_time": 0.0007860660552978516,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0007860660552978516
+      },
+      "019d90a5-f69e-72f3-ae11-f42190c1779b": {
+        "uuid": "019d90a5-f69e-72f3-ae11-f42190c1779b",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9269407,
+        "end_time": 1776248288.9269407,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "8b7cb12c-ada9-4ae4-abd2-b0763bd69b11": {
+        "uuid": "8b7cb12c-ada9-4ae4-abd2-b0763bd69b11",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9280195,
+        "end_time": 1776248288.9291482,
+        "duration": 0.0011286735534667969,
+        "self_time": 0.0011286735534667969,
+        "subtree_time": 0.0011286735534667969,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0011286735534667969
+      },
+      "019d90a5-f6a0-7ea1-849d-5b8775d875ca": {
+        "uuid": "019d90a5-f6a0-7ea1-849d-5b8775d875ca",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9281921,
+        "end_time": 1776248288.9281921,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "1e7dc02d-9385-43fa-8477-4d12d9d351b3": {
+        "uuid": "1e7dc02d-9385-43fa-8477-4d12d9d351b3",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9295604,
+        "end_time": 1776248288.9307551,
+        "duration": 0.0011947154998779297,
+        "self_time": 0.0011947154998779297,
+        "subtree_time": 0.0011947154998779297,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0011947154998779297
+      },
+      "019d90a5-f6a1-7e23-a77c-7b8e04c18f4f": {
+        "uuid": "019d90a5-f6a1-7e23-a77c-7b8e04c18f4f",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9297254,
+        "end_time": 1776248288.9297254,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "90fd6767-0a62-45a1-ada9-86f57c95f209": {
+        "uuid": "90fd6767-0a62-45a1-ada9-86f57c95f209",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9311774,
+        "end_time": 1776248288.9324198,
+        "duration": 0.0012423992156982422,
+        "self_time": 0.0012423992156982422,
+        "subtree_time": 0.0012423992156982422,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0012423992156982422
+      },
+      "019d90a5-f6a3-7e72-a224-d6d2d67b290b": {
+        "uuid": "019d90a5-f6a3-7e72-a224-d6d2d67b290b",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9313388,
+        "end_time": 1776248288.9313388,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "f9fd6076-d1d2-425a-a86f-1b0a3f87482c": {
+        "uuid": "f9fd6076-d1d2-425a-a86f-1b0a3f87482c",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9328551,
+        "end_time": 1776248288.933822,
+        "duration": 0.0009667873382568359,
+        "self_time": 0.0009667873382568359,
+        "subtree_time": 0.0009667873382568359,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0009667873382568359
+      },
+      "019d90a5-f6a4-7342-87c3-146409575da2": {
+        "uuid": "019d90a5-f6a4-7342-87c3-146409575da2",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.933007,
+        "end_time": 1776248288.933007,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "f8180993-5826-4239-afbe-59e340a603d0": {
+        "uuid": "f8180993-5826-4239-afbe-59e340a603d0",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9342728,
+        "end_time": 1776248288.9351375,
+        "duration": 0.0008647441864013672,
+        "self_time": 0.0008647441864013672,
+        "subtree_time": 0.0008647441864013672,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0008647441864013672
+      },
+      "019d90a5-f6a6-7d40-b864-f0e24774185a": {
+        "uuid": "019d90a5-f6a6-7d40-b864-f0e24774185a",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9344125,
+        "end_time": 1776248288.9344125,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "aec2246a-17cd-46f2-889b-b3366b4a8485": {
+        "uuid": "aec2246a-17cd-46f2-889b-b3366b4a8485",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.935489,
+        "end_time": 1776248288.9363759,
+        "duration": 0.0008869171142578125,
+        "self_time": 0.0008869171142578125,
+        "subtree_time": 0.0008869171142578125,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0008869171142578125
+      },
+      "019d90a5-f6a7-7533-9c8d-00671c3b3cdb": {
+        "uuid": "019d90a5-f6a7-7533-9c8d-00671c3b3cdb",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9356208,
+        "end_time": 1776248288.9356208,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "c88b1761-4739-4be5-be33-447b1ce2c570": {
+        "uuid": "c88b1761-4739-4be5-be33-447b1ce2c570",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9367547,
+        "end_time": 1776248288.9379272,
+        "duration": 0.0011725425720214844,
+        "self_time": 0.0011725425720214844,
+        "subtree_time": 0.0011725425720214844,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0011725425720214844
+      },
+      "019d90a5-f6a8-7e42-a363-0528d0aeee8d": {
+        "uuid": "019d90a5-f6a8-7e42-a363-0528d0aeee8d",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.936898,
+        "end_time": 1776248288.936898,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "7f2aa0b7-6402-44f0-bb27-aae94f892d08": {
+        "uuid": "7f2aa0b7-6402-44f0-bb27-aae94f892d08",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9383602,
+        "end_time": 1776248288.9393773,
+        "duration": 0.0010170936584472656,
+        "self_time": 0.0010170936584472656,
+        "subtree_time": 0.0010170936584472656,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0010170936584472656
+      },
+      "019d90a5-f6aa-7453-8f94-53d23f8eedf5": {
+        "uuid": "019d90a5-f6aa-7453-8f94-53d23f8eedf5",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9385128,
+        "end_time": 1776248288.9385128,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "0a2af083-7ab0-42b0-94e5-a5593971bd01": {
+        "uuid": "0a2af083-7ab0-42b0-94e5-a5593971bd01",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9397376,
+        "end_time": 1776248288.9406126,
+        "duration": 0.0008749961853027344,
+        "self_time": 0.0008749961853027344,
+        "subtree_time": 0.0008749961853027344,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0008749961853027344
+      },
+      "019d90a5-f6ab-7453-b646-934304758019": {
+        "uuid": "019d90a5-f6ab-7453-b646-934304758019",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9398677,
+        "end_time": 1776248288.9398677,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      },
+      "2a1fa53e-dc46-4444-9302-ab671f0fa4f2": {
+        "uuid": "2a1fa53e-dc46-4444-9302-ab671f0fa4f2",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9409769,
+        "end_time": 1776248288.9417803,
+        "duration": 0.0008034706115722656,
+        "self_time": 0.0008034706115722656,
+        "subtree_time": 0.0008034706115722656,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0008034706115722656
+      },
+      "019d90a5-f6ad-7f63-9a7a-4e8deaab0402": {
+        "uuid": "019d90a5-f6ad-7f63-9a7a-4e8deaab0402",
+        "operation_type": "LLM",
+        "operation_name": "hermes",
+        "start_time": 1776248288.9411077,
+        "end_time": 1776248288.9411077,
+        "duration": 0.0,
+        "self_time": 0.0,
+        "subtree_time": 0.0,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0
+      }
+    },
+    "top_bottlenecks": [
+      {
+        "uuid": "86bb18d9-2737-4f44-931a-ba00bbbe42c0",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.894967,
+        "end_time": 1776248288.904285,
+        "duration": 0.009317874908447266,
+        "self_time": 0.009317874908447266,
+        "subtree_time": 0.009317874908447266,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.009317874908447266
+      },
+      {
+        "uuid": "96816f2f-27a6-4193-a160-94e784c18ae2",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9130464,
+        "end_time": 1776248288.9149241,
+        "duration": 0.0018777847290039062,
+        "self_time": 0.0018777847290039062,
+        "subtree_time": 0.0018777847290039062,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0018777847290039062
+      },
+      {
+        "uuid": "649c825d-f439-4a37-8dba-a8c3601ead00",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9050627,
+        "end_time": 1776248288.9065232,
+        "duration": 0.0014605522155761719,
+        "self_time": 0.0014605522155761719,
+        "subtree_time": 0.0014605522155761719,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0014605522155761719
+      },
+      {
+        "uuid": "8d7d2510-b310-466e-961e-bfa3b2d05f11",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9104764,
+        "end_time": 1776248288.9119055,
+        "duration": 0.0014290809631347656,
+        "self_time": 0.0014290809631347656,
+        "subtree_time": 0.0014290809631347656,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0014290809631347656
+      },
+      {
+        "uuid": "ab023229-77e8-4b24-aefd-8afeb5c2cec9",
+        "operation_type": "FUNCTION",
+        "operation_name": "<workflow>",
+        "start_time": 1776248288.9172955,
+        "end_time": 1776248288.9186945,
+        "duration": 0.0013990402221679688,
+        "self_time": 0.0013990402221679688,
+        "subtree_time": 0.0013990402221679688,
+        "concurrency_midpoint": 1.0,
+        "bottleneck_score": 0.0013990402221679688
+      }
+    ]
+  }
+}
