@@ -14,10 +14,8 @@ Build a playbook that enables partners to:
 
 ## Who Is This For
 
-- **Primary audience:** Partners (SHI, WWT, HPE) doing NemoClaw enablement
-- **Soft launch:** HPE A&PS hackathon in Madrid (~2026-04-21)
-- **Leads:** Dave Barry, Adi Adesoba (proposed by Agerneh)
-- **Context:** Adapting existing Agentic AI Deep Dive to add NemoClaw focus
+- **Primary audience:** Partners and anyone developing agents with NemoClaw enablement
+- **Full spec:** See the [NemoClaw + NAT Telemetry Spec](https://docs.google.com/document/d/SPEC_DOC_ID) for the detailed specification
 
 ## Key Repos
 
