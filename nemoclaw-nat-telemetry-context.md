@@ -15,7 +15,6 @@ Build a playbook that enables partners to:
 ## Who Is This For
 
 - **Primary audience:** Partners and anyone developing agents with NemoClaw enablement
-- **Full spec:** See the [NemoClaw + NAT Telemetry Spec](https://docs.google.com/document/d/SPEC_DOC_ID) for the detailed specification
 
 ## Key Repos
 
