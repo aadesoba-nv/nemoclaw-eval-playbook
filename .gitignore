@@ -24,3 +24,6 @@ iterations/
 
 # Eval results (add back after clean run with real scores)
 eval-results/
+
+docs/index.md
+docs/_config.yml
